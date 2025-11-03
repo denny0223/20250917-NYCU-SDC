@@ -3,7 +3,7 @@ title: 可複製的好課：教學的系統思考
 description: 2025/09/17 @陽明交通大學 軟體開發社
 author: Denny Huang
 keywords:
-url: https://denny.one/20250917-NYCU-SDC
+url: https://denny.one/good-class/
 paginate: true
 ---
 
@@ -22,14 +22,15 @@ paginate: true
 
 <br />
 <br />
+<br />
+<br />
 
 ## Denny Huang
-### 2025/09/17 @陽明交通大學 軟體開發社
 
 ---
 
 ![](./img/slide.png)
-# [https://denny.one/20250917-NYCU-SDC](https://denny.one/20250917-NYCU-SDC)
+# [https://denny.one/good-class/](https://denny.one/good-class/)
 
 ---
 
